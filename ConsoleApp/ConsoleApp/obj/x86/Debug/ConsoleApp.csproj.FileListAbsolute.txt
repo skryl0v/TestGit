@@ -1,0 +1,4 @@
+D:\TestGit\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\TestGit\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\TestGit\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.exe
+D:\TestGit\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.pdb
